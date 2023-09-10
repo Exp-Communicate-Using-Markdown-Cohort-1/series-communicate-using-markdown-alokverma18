@@ -10,3 +10,8 @@
 s = 'Moon is Beautiful'
 print(s)
 ```
+
+
+- [ ] Music
+- [ ] Code
+- [ ] Cricket
